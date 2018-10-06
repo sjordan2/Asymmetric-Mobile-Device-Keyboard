@@ -65,13 +65,10 @@ At any time, you can see the list of current candidates, their words, and their 
 
 * [Eclipse](https://www.eclipse.org/) - The IDE used for developing this application
 * [Maven](https://maven.apache.org/) - Dependency Management (Apache Commons-Lang3)
-* [True Love](Found within) - Dedicated to making others' lives better
 
 ## Authors
 
-* **Sean Jordan** - *Initial work* - [sjordan2](https://github.com/sjordan2)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Sean Jordan** - [sjordan2](https://github.com/sjordan2)
 
 ## Acknowledgments
 
