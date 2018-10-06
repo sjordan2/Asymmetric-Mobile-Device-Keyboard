@@ -22,7 +22,7 @@ Here are instructions on how to install the Mobile Device Keyboard application o
 First, clone the repositiory onto your computer by running the following command in your git command line:
 
 ```
-git clone https://github.com/sjordan2/Asymmetric-Mobile-Device-Keyboard.git
+git clone https://github.com/sjordan2/Asymmetrik-Mobile-Device-Keyboard.git
 ```
 
 Then, in the folder where the repository was downloaded, run the following command in your command line:
