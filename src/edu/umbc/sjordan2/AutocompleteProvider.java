@@ -34,8 +34,6 @@ public class AutocompleteProvider {
 			if(c.getWord().length() >= fragment.length()) {
 				if(StringUtils.containsIgnoreCase(c.getWord().substring(0, fragment.length()), fragment)) {
 					validWords.add(c);
-				} else {
-					continue;
 				}
 			}
 		}
